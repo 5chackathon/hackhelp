@@ -320,7 +320,7 @@ var data = {
         'title': 'Lyft'
       }
     ],
-    'description': 'A list of APIs provided to us by sponsors.'
+    'description': 'A list of APIs provided by sponsors.'
   },
 'Web APIs': {
     'data': [
