@@ -311,7 +311,18 @@ var data = {
     ],
     'description': 'A collection of other cool projects and packages.'
   },
-  'Web APIs': {
+  'Sponsor APIs': {
+    'data': [
+      {
+        'description': 'No description.',
+        'link': 'https://developer.lyft.com/',
+        'subtitle': 'No subtitle.',
+        'title': 'Lyft'
+      }
+    ],
+    'description': 'A list of APIs provided to us by sponsors.'
+  },
+'Web APIs': {
     'data': [
       {
         'description': 'No description.',
